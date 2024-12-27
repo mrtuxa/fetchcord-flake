@@ -1,5 +1,5 @@
 # How to run
 
 ```bash
-nix run github:mrtuxa/fetchcord-flake#fetchcord
+nix run github:transgirllucy/fetchcord-flake#fetchcord
 ```
